@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Yuri Ferreira and I'm a Junior .NET Developer!
+- 👋 Hi, I’m Yuri Ferreira and I'm a Front-end Developer!
 - 👀 I like programming languages, games and rock n' roll.
-- 🌱 I’m currently learning .NET 6 and Javascript.
 - 📫 How to reach me:
 -        yuriferreirait@hotmail.com
 
