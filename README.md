@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yuri Ferreira and I'm a Developer!
+- 👋 Hi, I’m Yuri Ferreira and I'm a Salesforce Developer!
 - 👀 I like programming languages, games and rock n' roll.
 - 📫 How to reach me:
 -        yurivitorcf@gmail.com
